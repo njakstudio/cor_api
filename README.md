@@ -4,7 +4,7 @@ A lightweight expanded modding API for **Citizens of Rome: Dynasty Ascendant**.
 
 This mod exposes a stable global object, `window.corApi`, which provides helpers for reading and valuing character property data and modeling inheritance logic (including custom share overrides stored as character flags).
 
-**Current status:** v1.0.0 (Property + Estate + Inheritance)
+**Current status:** v1.4.0
 
 ---
 
